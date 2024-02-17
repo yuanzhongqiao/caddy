@@ -1,200 +1,191 @@
-<p align="center">
-	<a href="https://caddyserver.com">
-		<picture>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+	<a href="https://caddyserver.com" rel="nofollow">
+		<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1128849/210187358-e2c39003-9a5e-4dd5-a783-6deb6483ee72.svg">
 			<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/1128849/210187356-dfb7f1c5-ac2e-43aa-bb23-fc014280ae1f.svg">
-			<img src="https://user-images.githubusercontent.com/1128849/210187356-dfb7f1c5-ac2e-43aa-bb23-fc014280ae1f.svg" alt="Caddy" width="550">
-		</picture>
+			<img src="https://user-images.githubusercontent.com/1128849/210187356-dfb7f1c5-ac2e-43aa-bb23-fc014280ae1f.svg" alt="球童" width="550" style="visibility:visible;max-width:100%;">
+		</picture></themed-picture>
 	</a>
 	<br>
-	<h3 align="center">a <a href="https://zerossl.com"><img src="https://user-images.githubusercontent.com/55066419/208327323-2770dc16-ec09-43a0-9035-c5b872c2ad7f.svg" height="28" style="vertical-align: -7.7px" valign="middle"></a> project</h3>
-</p>
+	</p><h3 align="center" tabindex="-1" dir="auto"><a id="user-content-a--project" class="anchor" aria-hidden="true" tabindex="-1" href="#a--project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个</font></font><a href="https://zerossl.com" rel="nofollow"><img src="https://user-images.githubusercontent.com/55066419/208327323-2770dc16-ec09-43a0-9035-c5b872c2ad7f.svg" height="28" valign="middle" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">专案</font></font></h3>
+<p dir="auto"></p>
 <hr>
-<h3 align="center">Every site on HTTPS</h3>
-<p align="center">Caddy is an extensible server platform that uses TLS by default.</p>
-<p align="center">
-	<a href="https://github.com/caddyserver/caddy/actions/workflows/ci.yml"><img src="https://github.com/caddyserver/caddy/actions/workflows/ci.yml/badge.svg"></a>
-	<a href="https://pkg.go.dev/github.com/caddyserver/caddy/v2"><img src="https://img.shields.io/badge/godoc-reference-%23007d9c.svg"></a>
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content-every-site-on-https" class="anchor" aria-hidden="true" tabindex="-1" href="#every-site-on-https"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每个使用 HTTPS 的网站</font></font></h3>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caddy 是一个可扩展的服务器平台，默认使用 TLS。</font></font></p>
+<p align="center" dir="auto">
+	<a href="https://github.com/caddyserver/caddy/actions/workflows/ci.yml"><img src="https://github.com/caddyserver/caddy/actions/workflows/ci.yml/badge.svg" style="max-width: 100%;"></a>
+	<a href="https://pkg.go.dev/github.com/caddyserver/caddy/v2" rel="nofollow"><img src="https://camo.githubusercontent.com/60240bdf54be2d3b53f45a7f7ab74e9e895db875f9c8c55ec3d95436d3982b7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f646f632d7265666572656e63652d2532333030376439632e737667" data-canonical-src="https://img.shields.io/badge/godoc-reference-%23007d9c.svg" style="max-width: 100%;"></a>
 	<br>
-	<a href="https://twitter.com/caddyserver" title="@caddyserver on Twitter"><img src="https://img.shields.io/badge/twitter-@caddyserver-55acee.svg" alt="@caddyserver on Twitter"></a>
-	<a href="https://caddy.community" title="Caddy Forum"><img src="https://img.shields.io/badge/community-forum-ff69b4.svg" alt="Caddy Forum"></a>
+	<a href="https://twitter.com/caddyserver" title="Twitter 上的@caddyserver" rel="nofollow"><img src="https://camo.githubusercontent.com/c5826a719d50f00575e21c372f912175a56d0e87f2ee1b7cb54119b66421dddd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d4063616464797365727665722d3535616365652e737667" alt="Twitter 上的@caddyserver" data-canonical-src="https://img.shields.io/badge/twitter-@caddyserver-55acee.svg" style="max-width: 100%;"></a>
+	<a href="https://caddy.community" title="球童论坛" rel="nofollow"><img src="https://camo.githubusercontent.com/60156d97893a5c53ee51ae797a530ee26a5083889efae9a46d1afd27ee972d0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d666f72756d2d6666363962342e737667" alt="球童论坛" data-canonical-src="https://img.shields.io/badge/community-forum-ff69b4.svg" style="max-width: 100%;"></a>
 	<br>
-	<a href="https://sourcegraph.com/github.com/caddyserver/caddy?badge" title="Caddy on Sourcegraph"><img src="https://sourcegraph.com/github.com/caddyserver/caddy/-/badge.svg" alt="Caddy on Sourcegraph"></a>
-	<a href="https://cloudsmith.io/~caddy/repos/"><img src="https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith" alt="Cloudsmith"></a>
+	<a href="https://sourcegraph.com/github.com/caddyserver/caddy?badge" title="Sourcegraph 上的球童" rel="nofollow"><img src="https://camo.githubusercontent.com/b1690eef51973ed9965e60c6f0023eaee117f098d654fd9b18035ee3e93c3ac7/68747470733a2f2f736f7572636567726170682e636f6d2f6769746875622e636f6d2f63616464797365727665722f63616464792f2d2f62616467652e737667" alt="Sourcegraph 上的球童" data-canonical-src="https://sourcegraph.com/github.com/caddyserver/caddy/-/badge.svg" style="max-width: 100%;"></a>
+	<a href="https://cloudsmith.io/~caddy/repos/" rel="nofollow"><img src="https://camo.githubusercontent.com/339fd9a5e7555c893c7db114d8f91d96f44099e480c76730bf3a5db8ab90e476/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5353253230686f7374696e6725323062792d636c6f7564736d6974682d626c75653f6c6f676f3d636c6f7564736d697468" alt="云匠" data-canonical-src="https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith" style="max-width: 100%;"></a>
 </p>
-<p align="center">
-	<a href="https://github.com/caddyserver/caddy/releases">Releases</a> ·
-	<a href="https://caddyserver.com/docs/">Documentation</a> ·
-	<a href="https://caddy.community">Get Help</a>
+<p align="center" dir="auto">
+	<a href="https://github.com/caddyserver/caddy/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·
+	</font></font><a href="https://caddyserver.com/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·
+	</font></font><a href="https://caddy.community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取帮助</font></font></a>
 </p>
-
-
-
-### Menu
-
-- [Features](#features)
-- [Install](#install)
-- [Build from source](#build-from-source)
-	- [For development](#for-development)
-	- [With version information and/or plugins](#with-version-information-andor-plugins)
-- [Quick start](#quick-start)
-- [Overview](#overview)
-- [Full documentation](#full-documentation)
-- [Getting help](#getting-help)
-- [About](#about)
-
-<p align="center">
-	<b>Powered by</b>
+<h3 tabindex="-1" dir="auto"><a id="user-content-menu" class="anchor" aria-hidden="true" tabindex="-1" href="#menu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">菜单</font></font></h3>
+<ul dir="auto">
+<li><a href="#features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></li>
+<li><a href="#install"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></li>
+<li><a href="#build-from-source"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源代码构建</font></font></a>
+<ul dir="auto">
+<li><a href="#for-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了发展</font></font></a></li>
+<li><a href="#with-version-information-andor-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带有版本信息和/或插件</font></font></a></li>
+</ul>
+</li>
+<li><a href="#quick-start"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></a></li>
+<li><a href="#overview"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></a></li>
+<li><a href="#full-documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整文档</font></font></a></li>
+<li><a href="#getting-help"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求帮助</font></font></a></li>
+<li><a href="#about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></a></li>
+</ul>
+<p align="center" dir="auto">
+	<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">供电</font></font></b>
 	<br>
 	<a href="https://github.com/caddyserver/certmagic">
-		<picture>
+		<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/55066419/206946718-740b6371-3df3-4d72-a822-47e4c48af999.png">
 			<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/1128849/49704830-49d37200-fbd5-11e8-8385-767e0cd033c3.png">
-			<img src="https://user-images.githubusercontent.com/1128849/49704830-49d37200-fbd5-11e8-8385-767e0cd033c3.png" alt="CertMagic" width="250">
-		</picture>
+			<img src="https://user-images.githubusercontent.com/1128849/49704830-49d37200-fbd5-11e8-8385-767e0cd033c3.png" alt="证书魔法" width="250" style="visibility:visible;max-width:100%;">
+		</picture></themed-picture>
 	</a>
 </p>
-
-
-## [Features](https://caddyserver.com/v2)
-
-- **Easy configuration** with the [Caddyfile](https://caddyserver.com/docs/caddyfile)
-- **Powerful configuration** with its [native JSON config](https://caddyserver.com/docs/json/)
-- **Dynamic configuration** with the [JSON API](https://caddyserver.com/docs/api)
-- [**Config adapters**](https://caddyserver.com/docs/config-adapters) if you don't like JSON
-- **Automatic HTTPS** by default
-	- [ZeroSSL](https://zerossl.com) and [Let's Encrypt](https://letsencrypt.org) for public names
-	- Fully-managed local CA for internal names & IPs
-	- Can coordinate with other Caddy instances in a cluster
-	- Multi-issuer fallback
-- **Stays up when other servers go down** due to TLS/OCSP/certificate-related issues
-- **Production-ready** after serving trillions of requests and managing millions of TLS certificates
-- **Scales to hundreds of thousands of sites** as proven in production
-- **HTTP/1.1, HTTP/2, and HTTP/3** all supported by default
-- **Highly extensible** [modular architecture](https://caddyserver.com/docs/architecture) lets Caddy do anything without bloat
-- **Runs anywhere** with **no external dependencies** (not even libc)
-- Written in Go, a language with higher **memory safety guarantees** than other servers
-- Actually **fun to use**
-- So much more to [discover](https://caddyserver.com/v2)
-
-## Install
-
-The simplest, cross-platform way to get started is to download Caddy from [GitHub Releases](https://github.com/caddyserver/caddy/releases) and place the executable file in your PATH.
-
-See [our online documentation](https://caddyserver.com/docs/install) for other install instructions.
-
-## Build from source
-
-Requirements:
-
-- [Go 1.21 or newer](https://golang.org/dl/)
-
-### For development
-
-_**Note:** These steps [will not embed proper version information](https://github.com/golang/go/issues/29228). For that, please follow the instructions in the next section._
-
-```bash
-$ git clone "https://github.com/caddyserver/caddy.git"
+<h2 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://caddyserver.com/v2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></h2>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font><a href="https://caddyserver.com/docs/caddyfile" rel="nofollow"><font style="vertical-align: inherit;">Caddyfile</font></a><strong><font style="vertical-align: inherit;">轻松配置</font></strong></font><a href="https://caddyserver.com/docs/caddyfile" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强大的配置</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">及其</font></font><a href="https://caddyserver.com/docs/json/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">原生 JSON 配置</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font><a href="https://caddyserver.com/docs/api" rel="nofollow"><font style="vertical-align: inherit;">JSON API</font></a><strong><font style="vertical-align: inherit;">进行动态配置</font></strong></font><a href="https://caddyserver.com/docs/api" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><a href="https://caddyserver.com/docs/config-adapters" rel="nofollow"><strong><font style="vertical-align: inherit;"></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不喜欢 JSON，</font><a href="https://caddyserver.com/docs/config-adapters" rel="nofollow"><strong><font style="vertical-align: inherit;">请配置适配器</font></strong></a></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认
+</font><strong><font style="vertical-align: inherit;">自动 HTTPS</font></strong></font><ul dir="auto">
+<li><a href="https://zerossl.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ZeroSSL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://letsencrypt.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Let's Encrypt</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共名称</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于内部名称和 IP 的完全托管本地 CA</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以与集群中的其他 Caddy 实例协调</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多发行人回退</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当其他服务器因 TLS/OCSP/证书相关问题而</font><strong><font style="vertical-align: inherit;">停机时保持正常运行</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在处理数万亿个请求并管理数百万个 TLS 证书后</font><strong><font style="vertical-align: inherit;">即可投入生产</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">经生产验证，</font><strong><font style="vertical-align: inherit;">可扩展到数十万个站点</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认支持</font><strong><font style="vertical-align: inherit;">HTTP/1.1、HTTP/2 和 HTTP/3</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高度可扩展的</font></font></strong> <a href="https://caddyserver.com/docs/architecture" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块化架构</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让 Caddy 可以做任何事情而不会臃肿</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以在没有</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">外部依赖的</font></font></strong><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">任何地方运行</font></strong><font style="vertical-align: inherit;">（甚至 libc 也不行）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">采用Go语言编写，</font><font style="vertical-align: inherit;">比其他服务器具有更高的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内存安全保证</font></font></strong><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">使用起来</font></strong><font style="vertical-align: inherit;">其实很有趣</font></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还有更多有待</font></font><a href="https://caddyserver.com/v2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发现</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-install" class="anchor" aria-hidden="true" tabindex="-1" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最简单的跨平台入门方法是从</font></font><a href="https://github.com/caddyserver/caddy/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Releases</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 Caddy并将可执行文件放入您的 PATH 中。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关其他安装说明，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://caddyserver.com/docs/install" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的在线文档。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-build-from-source" class="anchor" aria-hidden="true" tabindex="-1" href="#build-from-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源代码构建</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求：</font></font></p>
+<ul dir="auto">
+<li><a href="https://golang.org/dl/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">转到 1.21 或更高版本</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-for-development" class="anchor" aria-hidden="true" tabindex="-1" href="#for-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了发展</font></font></h3>
+<p dir="auto"><em><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这些步骤</font></font><a href="https://github.com/golang/go/issues/29228" data-hovercard-type="issue" data-hovercard-url="/golang/go/issues/29228/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不会嵌入正确的版本信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。为此，请按照下一节中的说明进行操作。</font></font></em></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ git clone <span class="pl-s"><span class="pl-pds">"</span>https://github.com/caddyserver/caddy.git<span class="pl-pds">"</span></span>
+$ <span class="pl-c1">cd</span> caddy/cmd/caddy/
+$ go build</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ git clone &quot;https://github.com/caddyserver/caddy.git&quot;
 $ cd caddy/cmd/caddy/
-$ go build
-```
-
-When you run Caddy, it may try to bind to low ports unless otherwise specified in your config. If your OS requires elevated privileges for this, you will need to give your new binary permission to do so. On Linux, this can be done easily with: `sudo setcap cap_net_bind_service=+ep ./caddy`
-
-If you prefer to use `go run` which only creates temporary binaries, you can still do this with the included `setcap.sh` like so:
-
-```bash
-$ go run -exec ./setcap.sh main.go
-```
-
-If you don't want to type your password for `setcap`, use `sudo visudo` to edit your sudoers file and allow your user account to run that command without a password, for example:
-
-```
-username ALL=(ALL:ALL) NOPASSWD: /usr/sbin/setcap
-```
-
-replacing `username` with your actual username. Please be careful and only do this if you know what you are doing! We are only qualified to document how to use Caddy, not Go tooling or your computer, and we are providing these instructions for convenience only; please learn how to use your own computer at your own risk and make any needful adjustments.
-
-### With version information and/or plugins
-
-Using [our builder tool, `xcaddy`](https://github.com/caddyserver/xcaddy)...
-
-```
-$ xcaddy build
-```
-
-...the following steps are automated:
-
-1. Create a new folder: `mkdir caddy`
-2. Change into it: `cd caddy`
-3. Copy [Caddy's main.go](https://github.com/caddyserver/caddy/blob/master/cmd/caddy/main.go) into the empty folder. Add imports for any custom plugins you want to add.
-4. Initialize a Go module: `go mod init caddy`
-5. (Optional) Pin Caddy version: `go get github.com/caddyserver/caddy/v2@version` replacing `version` with a git tag, commit, or branch name.
-6. (Optional) Add plugins by adding their import: `_ "import/path/here"`
-7. Compile: `go build`
-
-
-
-
-## Quick start
-
-The [Caddy website](https://caddyserver.com/docs/) has documentation that includes tutorials, quick-start guides, reference, and more.
-
-**We recommend that all users -- regardless of experience level -- do our [Getting Started](https://caddyserver.com/docs/getting-started) guide to become familiar with using Caddy.**
-
-If you've only got a minute, [the website has several quick-start tutorials](https://caddyserver.com/docs/quick-starts) to choose from! However, after finishing a quick-start tutorial, please read more documentation to understand how the software works. 🙂
-
-
-
-
-## Overview
-
-Caddy is most often used as an HTTPS server, but it is suitable for any long-running Go program. First and foremost, it is a platform to run Go applications. Caddy "apps" are just Go programs that are implemented as Caddy modules. Two apps -- `tls` and `http` -- ship standard with Caddy.
-
-Caddy apps instantly benefit from [automated documentation](https://caddyserver.com/docs/json/), graceful on-line [config changes via API](https://caddyserver.com/docs/api), and unification with other Caddy apps.
-
-Although [JSON](https://caddyserver.com/docs/json/) is Caddy's native config language, Caddy can accept input from [config adapters](https://caddyserver.com/docs/config-adapters) which can essentially convert any config format of your choice into JSON: Caddyfile, JSON 5, YAML, TOML, NGINX config, and more.
-
-The primary way to configure Caddy is through [its API](https://caddyserver.com/docs/api), but if you prefer config files, the [command-line interface](https://caddyserver.com/docs/command-line) supports those too.
-
-Caddy exposes an unprecedented level of control compared to any web server in existence. In Caddy, you are usually setting the actual values of the initialized types in memory that power everything from your HTTP handlers and TLS handshakes to your storage medium. Caddy is also ridiculously extensible, with a powerful plugin system that makes vast improvements over other web servers.
-
-To wield the power of this design, you need to know how the config document is structured. Please see [our documentation site](https://caddyserver.com/docs/) for details about [Caddy's config structure](https://caddyserver.com/docs/json/).
-
-Nearly all of Caddy's configuration is contained in a single config document, rather than being scattered across CLI flags and env variables and a configuration file as with other web servers. This makes managing your server config more straightforward and reduces hidden variables/factors.
-
-
-## Full documentation
-
-Our website has complete documentation:
-
-**https://caddyserver.com/docs/**
-
-The docs are also open source. You can contribute to them here: https://github.com/caddyserver/website
-
-
-
-## Getting help
-
-- We advise companies using Caddy to secure a support contract through [Ardan Labs](https://www.ardanlabs.com/my/contact-us?dd=caddy) before help is needed.
-
-- A [sponsorship](https://github.com/sponsors/mholt) goes a long way! We can offer private help to sponsors. If Caddy is benefitting your company, please consider a sponsorship. This not only helps fund full-time work to ensure the longevity of the project, it provides your company the resources, support, and discounts you need; along with being a great look for your company to your customers and potential customers!
-
-- Individuals can exchange help for free on our community forum at https://caddy.community. Remember that people give help out of their spare time and good will. The best way to get help is to give it first!
-
-Please use our [issue tracker](https://github.com/caddyserver/caddy/issues) only for bug reports and feature requests, i.e. actionable development items (support questions will usually be referred to the forums).
-
-
-
-## About
-
-Matthew Holt began developing Caddy in 2014 while studying computer science at Brigham Young University. (The name "Caddy" was chosen because this software helps with the tedious, mundane tasks of serving the Web, and is also a single place for multiple things to be organized together.) It soon became the first web server to use HTTPS automatically and by default, and now has hundreds of contributors and has served trillions of HTTPS requests.
-
-**The name "Caddy" is trademarked.** The name of the software is "Caddy", not "Caddy Server" or "CaddyServer". Please call it "Caddy" or, if you wish to clarify, "the Caddy web server". Caddy is a registered trademark of Stack Holdings GmbH.
-
-- _Project on Twitter: [@caddyserver](https://twitter.com/caddyserver)_
-- _Author on Twitter: [@mholt6](https://twitter.com/mholt6)_
-
-Caddy is a project of [ZeroSSL](https://zerossl.com), a Stack Holdings company.
-
-Debian package repository hosting is graciously provided by [Cloudsmith](https://cloudsmith.com). Cloudsmith is the only fully hosted, cloud-native, universal package management solution, that enables your organization to create, store and share packages in any format, to any place, with total confidence.
+$ go build" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当您运行 Caddy 时，它可能会尝试绑定到低端口，除非您的配置中另有指定。如果您的操作系统需要提升权限，您将需要授予新的二进制文件权限才能执行此操作。在 Linux 上，这可以通过以下方式轻松完成：</font></font><code>sudo setcap cap_net_bind_service=+ep ./caddy</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您更喜欢</font></font><code>go run</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅创建临时二进制文件，您仍然可以使用 include 来执行此操作，</font></font><code>setcap.sh</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如下所示：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ go run -exec ./setcap.sh main.go</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ go run -exec ./setcap.sh main.go" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不想输入 的密码</font></font><code>setcap</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，请使用</font></font><code>sudo visudo</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑 sudoers 文件并允许您的用户帐户在没有密码的情况下运行该命令，例如：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>username ALL=(ALL:ALL) NOPASSWD: /usr/sbin/setcap
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="username ALL=(ALL:ALL) NOPASSWD: /usr/sbin/setcap" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">替换</font></font><code>username</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为您的实际用户名。请小心，只有在您知道自己在做什么的情况下才可以这样做！我们只有资格记录如何使用 Caddy，而不是 Go 工具或您的计算机，并且我们提供这些说明只是为了方便；请自担风险了解如何使用自己的计算机并进行任何必要的调整。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-with-version-information-andor-plugins" class="anchor" aria-hidden="true" tabindex="-1" href="#with-version-information-andor-plugins"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带有版本信息和/或插件</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font></font><a href="https://github.com/caddyserver/xcaddy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的构建工具，</font></font><code>xcaddy</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ...</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>$ xcaddy build
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ xcaddy build" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">...以下步骤是自动化的：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新建一个文件夹：</font></font><code>mkdir caddy</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改成这样：</font></font><code>cd caddy</code></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://github.com/caddyserver/caddy/blob/master/cmd/caddy/main.go"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将Caddy 的 main.go</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制</font><font style="vertical-align: inherit;">到空文件夹中。为您想要添加的任何自定义插件添加导入。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">初始化 Go 模块：</font></font><code>go mod init caddy</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（可选）Pin Caddy 版本：</font></font><code>go get github.com/caddyserver/caddy/v2@version</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">替换</font></font><code>version</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为 git 标签、提交或分支名称。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（可选）通过添加插件的导入来添加插件：</font></font><code>_ "import/path/here"</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译：</font></font><code>go build</code></li>
+</ol>
+<h2 tabindex="-1" dir="auto"><a id="user-content-quick-start" class="anchor" aria-hidden="true" tabindex="-1" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://caddyserver.com/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caddy 网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供</font><font style="vertical-align: inherit;">的文档包括教程、快速入门指南、参考资料等。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们建议所有用户（无论经验水平如何）阅读我们的</font></font><a href="https://caddyserver.com/docs/getting-started" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南，以熟悉 Caddy 的使用。</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您只有一分钟的时间，</font></font><a href="https://caddyserver.com/docs/quick-starts" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该网站有几个快速入门教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可供选择！但是，完成快速入门教程后，请阅读更多文档以了解该软件的工作原理。 🙂</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-overview" class="anchor" aria-hidden="true" tabindex="-1" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caddy 最常用作 HTTPS 服务器，但它适用于任何长时间运行的 Go 程序。首先，它是一个运行 Go 应用程序的平台。 Caddy“应用程序”只是作为 Caddy 模块实现的 Go 程序。两个应用程序 -</font></font><code>tls</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>http</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 随 Caddy 一起提供标准配置。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caddy 应用程序立即受益于</font></font><a href="https://caddyserver.com/docs/json/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、通过 API 进行的优雅的在线</font></font><a href="https://caddyserver.com/docs/api" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置更改</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以及与其他 Caddy 应用程序的统一。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尽管</font></font><a href="https://caddyserver.com/docs/json/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSON</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是 Caddy 的本机配置语言，但 Caddy 可以接受来自</font></font><a href="https://caddyserver.com/docs/config-adapters" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置适配器的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">输入，这些适配器本质上可以将您选择的任何配置格式转换为 JSON：Caddyfile、JSON 5、YAML、TOML、NGINX 配置等。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置 Caddy 的主要方法是通过</font></font><a href="https://caddyserver.com/docs/api" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其 API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，但如果您更喜欢配置文件，</font></font><a href="https://caddyserver.com/docs/command-line" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行界面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">也支持这些。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与现有的任何 Web 服务器相比，Caddy 提供了前所未有的控制级别。在 Caddy 中，您通常会在内存中设置初始化类型的实际值，这些值为从 HTTP 处理程序和 TLS 握手到存储介质的所有内容提供支持。 Caddy 的可扩展性也非常高，拥有强大的插件系统，比其他 Web 服务器有了巨大的改进。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运用此设计的功能，您需要了解配置文档的结构。</font><font style="vertical-align: inherit;">有关</font><a href="https://caddyserver.com/docs/json/" rel="nofollow"><font style="vertical-align: inherit;">Caddy 配置结构</font></a><font style="vertical-align: inherit;">的详细信息，请参阅</font></font><a href="https://caddyserver.com/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的文档网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><a href="https://caddyserver.com/docs/json/" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">几乎所有 Caddy 的配置都包含在单个配置文档中，而不是像其他 Web 服务器那样分散在 CLI 标志和环境变量以及配置文件中。这使得管理服务器配置更加简单，并减少隐藏变量/因素。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-full-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#full-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的网站有完整的文档：</font></font></p>
+<p dir="auto"><strong><a href="https://caddyserver.com/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://caddyserver.com/docs/</font></font></a></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这些文档也是开源的。您可以在这里为他们做出贡献： https: </font></font><a href="https://github.com/caddyserver/website"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/caddyserver/website</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-help" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求帮助</font></font></h2>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们建议使用 Caddy 的公司在需要帮助之前通过</font></font><a href="https://www.ardanlabs.com/my/contact-us?dd=caddy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ardan Labs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获得支持合同。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助</font></font><a href="https://github.com/sponsors/mholt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很长的路要走！我们可以为赞助商提供私人帮助。如果 Caddy 使您的公司受益，请考虑赞助。这不仅有助于资助全职工作以确保项目的长期发展，还为您的公司提供所需的资源、支持和折扣；同时为您的客户和潜在客户树立您公司的形象！</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://caddy.community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">个人可以在我们的社区论坛https://caddy.community</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上免费交流帮助</font><font style="vertical-align: inherit;">。请记住，人们是出于业余时间和善意提供帮助。获得帮助的最好方法就是先给予帮助！</font></font></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请仅将我们的</font></font><a href="https://github.com/caddyserver/caddy/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题跟踪器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于错误报告和功能请求，即可操作的开发项目（支持问题通常会参考论坛）。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-about" class="anchor" aria-hidden="true" tabindex="-1" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matthew Holt 于 2014 年在杨百翰大学学习计算机科学时开始开发 Caddy。 （之所以选择“Caddy”这个名字，是因为该软件有助于完成服务 Web 的繁琐、平凡的任务，并且也是将多个事物组织在一起的单一位置。）它很快成为第一个自动使用 HTTPS 的 Web 服务器，并且默认情况下，现在拥有数百名贡献者，并已处理数万亿个 HTTPS 请求。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“Caddy”这个名字已注册商标。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该软件的名称是“Caddy”，而不是“Caddy Server”或“CaddyServer”。请称其为“Caddy”，或者，如果您想澄清，请称其为“Caddy Web 服务器”。 Caddy 是 Stack Holdings GmbH 的注册商标。</font></font></p>
+<ul dir="auto">
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter 上的项目：</font></font><a href="https://twitter.com/caddyserver" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@caddyserver</font></font></a></em></li>
+<li><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作者推特：</font></font><a href="https://twitter.com/mholt6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@mholt6</font></font></a></em></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caddy 是Stack Holdings 公司</font></font><a href="https://zerossl.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ZeroSSL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的一个项目。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://cloudsmith.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Debian 软件包存储库托管由Cloudsmith</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">慷慨提供</font><font style="vertical-align: inherit;">。 Cloudsmith 是唯一完全托管、云原生、通用包管理解决方案，使您的组织能够完全放心地在任何地方以任何格式创建、存储和共享包。</font></font></p>
+</article></div>
